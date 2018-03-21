@@ -1,0 +1,4 @@
+These are palettes used for various things within the pack.
+
+Please try to follow them, if you use limited colors when working it
+allows far easier of color adjustment later

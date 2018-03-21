@@ -1,0 +1,9 @@
+# windows nonsense
+*.db
+
+# gvim
+*.swp
+
+# aseprite
+*.aseprite
+*.ase
