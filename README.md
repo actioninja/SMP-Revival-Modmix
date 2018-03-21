@@ -1,9 +1,13 @@
 # SMP's Revival
 A 16x medieval fantasy resource pack for Minecraft
 
-Originally created by SMP. Minecraft Forums thread: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1228756-smps-revival-october-20th-2014-1-8-sans-ctm
+This repo contains modded textures for SMP's Revival.  The original vanilla
+repo can be found [here](https://github.com/actioninja/Revival)
+
 
 This fork is maintained by actioninja
+
+https://github.com/actioninja/SMP-Revival-Modmix.git
 
 # CREDITS
 * SMP - Original Creator
